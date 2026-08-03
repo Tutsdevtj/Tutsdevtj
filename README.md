@@ -1,7 +1,7 @@
 <div align="center">
   <img
     width="100%"
-    src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,100:512BD4&height=180&section=header&text=Arthur%20Reis&fontSize=44&fontColor=FFFFFF&animation=fadeIn&fontAlignY=35&desc=Full%20Stack%20Developer%20%7C%20.NET%20%26%20Angular&descAlignY=58&descSize=18"
+    src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:0D1117,100:512BD4&amp;height=180&amp;section=header&amp;text=Arthur%20Reis&amp;fontSize=44&amp;fontColor=FFFFFF&amp;animation=fadeIn&amp;fontAlignY=35&amp;desc=Full%20Stack%20Developer%20%7C%20.NET%20and%20Angular&amp;descAlignY=58&amp;descSize=18"
     alt="Arthur Reis header"
   />
 </div>
@@ -67,7 +67,7 @@ I'm a **Full Stack Developer** and **Computer Science student** focused on build
 <div align="center">
   <img
     width="100%"
-    src="https://capsule-render.vercel.app/api?type=waving&color=0:512BD4,100:0D1117&height=120&section=footer"
+    src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:512BD4,100:0D1117&amp;height=120&amp;section=footer"
     alt="Footer"
   />
 </div>
